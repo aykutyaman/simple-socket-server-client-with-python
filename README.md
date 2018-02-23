@@ -1,1 +1,1 @@
-Very simple TCP and UDP client-server "hello world" applications over sockets in python.
+Very simple TCP, UDP and Multicast client-server "hello world" applications over sockets in python.
